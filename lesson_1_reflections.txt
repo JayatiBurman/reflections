@@ -1,0 +1,37 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+It is a much more efficient way of finding bugs because of typos than going through the entire code manually and trying to figure out the issue
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+This could help in analysis of how the code has evolved and in planning the future course of how to do modifictaions to it. 
+Get to learn from mistakes done previously.
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+This is a better way of avoiding bad coding mistakes. doing it manually gives the flexibility to review before you actually commit.
+helps in keeping track of versioning in true sense ie 1 logical change per commit.
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, like Google Docs, treat each file separately?
+
+Git is more application/code oriented in that way. 
+
+How can you use the commands git log and git diff to view the history of files?
+
+It is an excellent way to track where a bug got introduced. It reduces the investigation time and cost.
+
+How might using version control make you more confident to make changes that
+could break something?
+
+You always have an option to rollback your code without reverting your changes manually(which again increases the chances of something else breaking).
+You can fearlessly go about experimenting with the code and make sure things are still working the way they should.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+I would want to explore so much more. By far it seems to me like an excellent version control tool,
+which can serve numerous purposes in evolving the code with much lesser risks and giving the liberty to the programmer to experiment more without any hassle.
