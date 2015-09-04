@@ -4,3 +4,7 @@ I would prefer using a remote repository if I am going to do simple changes in t
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 This would give me flexibility to decide when I think I am ready to pull my changes from Remote or vice versa. Plus for staying up-to-date at all times it would be required that the repositories be connected at all times, which if does not happen might cause conflicts.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Clone : Basically copies the repository so that you can work on it as if it were your own.
+Branches : Work on the same code base and later have the flexibility to merge your code with the same.
+Fork : Use an existing repository on github to modify seaprately while still being connected to the parent repository. You have the liberty to suggest.
