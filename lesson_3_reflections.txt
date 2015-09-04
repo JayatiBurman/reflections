@@ -1,1 +1,2 @@
-
+When would you want to use a remote repository rather than keeping all your work local?
+I would prefer using a remote repository if I am going to do simple changes in text files which do not affect my code directly. I think this would save me a lot of time.
